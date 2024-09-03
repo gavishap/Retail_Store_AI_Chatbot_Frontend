@@ -1,5 +1,3 @@
-Certainly! Here's an in-depth README for your GitHub page that should impress recruiters:
-
 # AI-Powered Tech Store Chatbot
 
 ## Project Overview
